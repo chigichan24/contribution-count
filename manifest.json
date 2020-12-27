@@ -11,5 +11,17 @@
   ],
   "icons" : {
     "128": "icon.png"
-  }
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://gitlab.com/*"
+      ],
+      "js": [
+        "app.js"
+      ],
+      "run_at": "document_end",
+      "all_frames": true
+    }
+  ]
 }
