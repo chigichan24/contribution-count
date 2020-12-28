@@ -6,4 +6,4 @@ This is a chrome extension which display contributions on GitLab profile page
 
 ## links
 
-- [extension]()
+- [chrome extension](https://chrome.google.com/webstore/detail/gitlab-contribution-count/nkjkidmkdedgpddijnpnbedecdllcije)
